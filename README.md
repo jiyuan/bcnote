@@ -2,6 +2,12 @@
 
 ### 一、区块链项目
 
+#### Ethereum
+
+https://github.com/ethereum/go-ethereum
+
+Official Golang implementation of the Ethereum protocol.
+
 #### Hyperledger
 
 https://github.com/hyperledger/hyperledger
